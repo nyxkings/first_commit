@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import pandas as pd
 from tkinter import *
 import requests
 
